@@ -259,7 +259,7 @@ An interactive romantic web animation system featuring character animations, glo
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://github.com/ihzanac">
+<a href="https://www.linkedin.com/in/ihzan-ac-5a0965298/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
