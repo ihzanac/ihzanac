@@ -234,41 +234,40 @@ An interactive romantic web animation system featuring character animations, glo
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" width="48%" />
-</p>
 
----
+<img src="https://github-readme-stats-fast.vercel.app/api?username=ihzanac&show_icons=true&theme=transparent" />
 
-# 📈 Most Used Languages
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ihzanac&layout=compact&theme=transparent" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 # 📫 Connect With Me
 
-<p align="left">
-
-<a href="https://github.com/ihzanac" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+<p>
 
 <a href="https://www.linkedin.com/in/ihzan-ac-5a0965298/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:ihzanac0@email@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://github.com/ihzanac" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
 </p>
 
 ---
 
-<p align="center">
+<h3 align="center">
 
-⭐ <b>Always Learning. Always Building. Always Improving.</b> ⭐
+⭐ Always learning. Always building.
 
-</p>
+</h3>
