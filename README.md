@@ -1,6 +1,6 @@
 # Hi, I'm Ihzan 👋
 
-### Software Engineer | Full-Stack Developer | UI/UX Designer | AI Enthusiast
+### Software Engineer | Full-Stack Developer | UI/UX Designer | AI Application Developer
 
 Building Modern Web, Mobile & Desktop Applications with scalable technologies.
 
